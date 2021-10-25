@@ -1,0 +1,75 @@
+img{
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: auto;
+    max-width: 100%;
+
+    
+    
+
+}
+
+h1{
+    padding-bottom: 0px;
+}
+header{
+    font-size: 27px;
+    font-weight: 800;
+    font-family: monospace;
+    text-align: center;
+
+
+}
+.leftalign{
+    text-align: left;
+}
+
+.fonts{
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: 700;
+}
+
+li{
+    padding-bottom: 15px;
+    text-align: left;
+    font-family: monospace;
+    font-size: 16px;
+
+}
+
+section{
+    margin: auto;
+    width: 40%;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+p{
+    text-align: center;
+    font-family: monospace;
+    padding: 10px;
+}
+
+figure{
+    margin: auto;
+    padding: 50px;
+    background-color: white;
+    display: block;
+
+
+}
+figcaption{
+    padding-left: 10%;
+    font-family: monospace;
+}
+
+body{
+    margin: 0%;
+    background-color: lightgray;
+    
+}
